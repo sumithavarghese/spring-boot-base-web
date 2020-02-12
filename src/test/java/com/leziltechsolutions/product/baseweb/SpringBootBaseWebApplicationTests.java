@@ -10,6 +10,7 @@ class SpringBootBaseWebApplicationTests {
 	void contextLoads() {
 
 		System.out.println("Hi Kaajal");
+		System.out.println("Hi Ayaan");
 	}
 
 }
