@@ -8,6 +8,7 @@ class SpringBootBaseWebApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hi Sumitha");
 	}
 
 }
